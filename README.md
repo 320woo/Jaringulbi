@@ -13,7 +13,7 @@
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Profile  | <img width="200" src="https://user-images.githubusercontent.com/26705587/127587609-21e853bb-f47a-4989-af09-c0e0a9107d33.png"> | <img width="200" src="https://user-images.githubusercontent.com/26705587/127587653-eace5871-dda2-46c7-a75b-1faaf7e5be20.png"> | <img width="200" src="https://user-images.githubusercontent.com/26705587/127587569-fd28267a-99ee-4228-98f3-578193ac8a3a.png"> | <img width="200" src="https://user-images.githubusercontent.com/26705587/127587865-a754c895-67f4-4654-82e0-13c49820512e.png"> |
 | Position |                Project leader &<br />Backend                 |                Frontend &<br />UX/UI, Design                 |                    Frontend &<br /> UI/UX                    |                    Backend & <br />DevOps                    |
-|  GitHub  |            [@wym6764](https://github.com/wym6764)            |           [@sana0803](https://github.com/sana0803)           |         [@hyunwoo-sl](https://github.com/hyunwoo-sl)         |           [@hataerin](https://github.com/hataerin)           |
+|  GitHub  |            [@wym6764](https://github.com/wym6764)            |           [@sana0803](https://github.com/sana0803)           |         [@320woo](https://github.com/320woo)         |           [@hataerin](https://github.com/hataerin)           |
 
 #### 👉[대전없는 대전팀의 협업방법 보러가기]()👈
 
